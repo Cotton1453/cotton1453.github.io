@@ -1,0 +1,43 @@
+.site-header{
+  font-family: europa;
+  padding-right: 5vw;
+  padding-left: 5vw;
+  margin: 1.5vw auto;
+  margin-bottom: 3.5vh;
+}
+
+.problem , .cotton , .about{
+  flex: 1 1 0px;
+  width: 33%;
+  display: inline-block;
+  color:#474747;
+}
+
+.problem{
+  text-align: left;
+  color: #474747;
+}
+
+.cotton{
+  text-align: center;
+  text-decoration: none;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 19px;
+  line-height: 1.6em;
+  letter-spacing: .15em;
+  text-transform: uppercase;
+  color: #474747;
+}
+
+.about{
+  text-align: right;
+  color: #474747;
+}
+
+
+a:link{
+    text-decoration: none;
+    outline: none;
+    color: #474747;
+}
